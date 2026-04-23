@@ -1,4 +1,12 @@
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <Nikollas Beneveni de Souza>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : 23/04/2026
+Objetivo    : Ler 100 valores inteiros e apresentar o maior valor lido e a posição dentre os 100 valores lidos".
+Aprendizado : <utilização de vetor junto com o for>
+-------------------------------------------------------------------------- */
 
 #include <stdio.h>
 
