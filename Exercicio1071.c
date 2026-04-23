@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : <Nikollas Beneveni de Souza>
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1071
-Data        : 18/04/2026
+Data        : 23/04/2026
 Objetivo    : Ler 2 valores inteiros, calcular e mostrar a soma dos numeros ímpares entre eles".
 Aprendizado : <a implementação do for e a compreensão de como pode ser utilizado>
 -------------------------------------------------------------------------- */
