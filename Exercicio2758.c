@@ -1,4 +1,12 @@
-
+/*
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <Nikollas Beneveni de Souza>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
+Data        : 23/04/2026
+Objetivo    : imprimir 2 numeros de precisão simples e 2 numeros de precisão dupla igualmente espaçado e com identação correta".
+Aprendizado : <aprender a organizar 4 numeros igualmente espaçados com a identação especificada>
+*/
 
 #include <stdio.h>
 
