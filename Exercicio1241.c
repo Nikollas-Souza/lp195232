@@ -1,5 +1,12 @@
-
-
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : <Nikollas Beneveni de Souza>
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 05/05/2026
+Objetivo    : Verificar se um número B aparece no final de A".
+Aprendizado : <Aprender a usar strings e comparar partes finais de texto>
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <string.h>
 
