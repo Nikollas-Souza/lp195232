@@ -1,4 +1,13 @@
-
+/*
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Nikollas Beneveni de Souza
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1534
+Data        : 14/05/2026
+Objetivo    : Ler um valor inteiro N que é o tamanho da matriz que deve ser impressa conforme o modelo fornecido..
+Aprendizado : Aprender a utilizar especificadores de formatação do printf, controlando casas decimais, notação científica, alinhamento
+e espaçamento de valores float e double.
+*/
 
 #include <stdio.h>
 
