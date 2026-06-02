@@ -1,4 +1,12 @@
-
+/*
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Nikollas Beneveni de Souza
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1258
+Data        : 02/06/2026
+Objetivo    : Ordenar lista de camisetas por cor, tamanho e nome
+Aprendizado : Uso de qsort com struct e leitura mista com fgets/scanf
+*/
 
 #include <stdio.h>
 #include <string.h>
