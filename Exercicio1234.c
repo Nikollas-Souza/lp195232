@@ -1,4 +1,12 @@
-
+/*
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Nikollas Beneveni de Souza
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1234
+Data        : 18/06/2026
+Objetivo    : Fazer a frase ficar com letras maiúsculas e minúsculas alternadas.
+Aprendizado : Aprendi a mexer com strings, laços e funções para alterar letras.
+*/
 
 #include <stdio.h>
 #include <string.h>
