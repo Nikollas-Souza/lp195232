@@ -1,4 +1,14 @@
-
+/*
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Nikollas Beneveni de Souza
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
+Data        : 23/06/2026
+Objetivo    : Verificar se uma matriz 9x9 preenchida é uma solução válida de Sudoku,
+              checando se cada linha, coluna e região 3x3 contém os números de 1 a 9.
+Aprendizado : Uso de arrays bidimensionais, funções de verificação com contador de
+              frequência e leitura de múltiplas instâncias de entrada.
+*/
 
 #include <stdio.h>
 
